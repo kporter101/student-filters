@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './App.css';
 import FilterContainer from './FilterContainer.jsx';
 import StudentContainer from './StudentContainer.jsx';
 import styled from 'styled-components';
